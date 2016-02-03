@@ -4,6 +4,8 @@
 --
 
 function main()
+	local x = 1;
+	local y = x*x;
 	print("HELLO world");
 end
 
